@@ -27,6 +27,7 @@ def goals():
 @app.route('/contact')
 def contact_us():
     return render_template('contact.html')
+    //rfefrerrfefer
 
 
 
