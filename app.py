@@ -28,9 +28,7 @@ def goals():
 def contact_us():
     return render_template('contact.html')
 
-@app.route('/messages')
-def message():
-    return render_template('contact.html')
+
 
 
 
